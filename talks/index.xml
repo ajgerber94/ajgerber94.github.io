@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poster Presentations on Academic</title>
+    <link>http://JGerbs13.github.io/talks/</link>
+    <description>Recent content in Poster Presentations on Academic</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Jeffrey Gerber</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
+    <atom:link href="/talk/" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Identifying Multiple Populations in M71 using CN</title>
+      <link>http://JGerbs13.github.io/talks/aas_227/</link>
+      <pubDate>Wed, 06 Jan 2016 00:00:00 +0000</pubDate>
+      
+      <guid>http://JGerbs13.github.io/talks/aas_231/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
